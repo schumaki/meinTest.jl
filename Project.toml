@@ -1,0 +1,13 @@
+name = "meinTest"
+uuid = "bfc0465b-491e-4267-bc55-e149fadc8df3"
+authors = ["Aaron Peikert", "Maximilian S. Ernst", "Nicklas Hafiz"]
+version = "0.1.0"
+
+[compat]
+julia = "1.2"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
