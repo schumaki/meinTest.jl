@@ -1,5 +1,5 @@
 module meinTest
+    include("LinReg.jl")
 
-# Write your package code here.
-
+    export sos
 end
